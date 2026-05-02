@@ -9,3 +9,4 @@ scipy
 joblib
 pymongo
 requests
+imbalanced-learn
